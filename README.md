@@ -42,7 +42,7 @@ With my extensive experience in **Full Stack development**, I build complete and
 
 
 <div align="center">  
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JuMfv&show_icons=true&theme=dark&hide_border=true&card_width=380&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats"/></a>
+ <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JuMfv&show_icons=true&theme=dark&hide_border=true&card_width=380&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats"/></a>-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuMfv&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=58a6ff" height="150" alt="Top Languages"/>
   </a>
